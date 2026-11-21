@@ -4,7 +4,7 @@ Predicting how many minutes a food delivery will take, using details about the o
 
 Built for a hackathon problem statement: **Machine Learning Regression Model for Predictive Analytics, Option C (Delivery Time Estimation)**.
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app
+**Live app:** https://deliverytimeestimation.streamlit.app/
 
 ![App: Predict ETA](docs/images/app_predict.png)
 
